@@ -26,5 +26,5 @@ This document explains how to setup and run this sample to-do.
 * Run `cd resources/assets && yarn install`;
 * Run `yarn watch`;
 * Edit source files;
-* To compile production version of assets, run `yarn run prod`;
+* To compile production version of assets, run `yarn run prod`.
 
